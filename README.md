@@ -9,7 +9,7 @@
 
 - HTML
 - Css3
-- Technologies used
+- Linter and stylelint
 
 
 To get a local copy up and running follow these simple example steps.
